@@ -1,4 +1,4 @@
-# Hi Guys, my name is Alberto Alesci I studied economics and finance actually now
+# Hi Guys, my name is Alberto Alesci I studied economics and finance actually
 # I'm working in Accenture as ABAP developer. But I love 
 # mathematics and statistics. 
 # 
