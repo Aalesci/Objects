@@ -10,7 +10,7 @@
 ##### CLASS AND ISTANCE 
 
 class Student: 
-    #Variable of the class(This ar attribute that are shering with all istance of the class 
+    #Variable of the class(This are attribute that are shering with all istance of the class 
     Hours_of_lesson = 35
 
     Number_of_student = 0
@@ -38,6 +38,7 @@ print(Student.personal_data(stud_1)) #This is improtant because allows you to un
 
 #With function dict we can see: 
 print(Student.__dict__) #The variable of the calss (Hours_of_lesson)  
+print('')
 print(stud_1.__dict__)  #The variable of my object  (name, surmane , age , subject + Hours_of_lesson)
 
 
